@@ -8,10 +8,3 @@ for param in "$@"; do
 done
 
 echo "====="
-
-
-
-
-
-
-
